@@ -20,7 +20,7 @@ connectCloudinary();
 // middlewares
 app.use(express.json());
 const allowedOrigins = [
-    "https://artnakkk-frontend-admin.vercel.app",
+    "https://admin-three-nu.vercel.app/",
     "http://localhost:5175", // For local development
     "http://localhost:5176", // For local development
     "http://localhost:5173"
